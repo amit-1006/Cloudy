@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Cloudy/static/css/main.7d3cf03b.chunk.css",
+    "main.js": "/Cloudy/static/js/main.36674a24.chunk.js",
+    "main.js.map": "/Cloudy/static/js/main.36674a24.chunk.js.map",
+    "runtime-main.js": "/Cloudy/static/js/runtime-main.13e8b9d3.js",
+    "runtime-main.js.map": "/Cloudy/static/js/runtime-main.13e8b9d3.js.map",
+    "static/js/2.a8fe8f8b.chunk.js": "/Cloudy/static/js/2.a8fe8f8b.chunk.js",
+    "static/js/2.a8fe8f8b.chunk.js.map": "/Cloudy/static/js/2.a8fe8f8b.chunk.js.map",
+    "index.html": "/Cloudy/index.html",
+    "static/css/main.7d3cf03b.chunk.css.map": "/Cloudy/static/css/main.7d3cf03b.chunk.css.map",
+    "static/js/2.a8fe8f8b.chunk.js.LICENSE.txt": "/Cloudy/static/js/2.a8fe8f8b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Cloudy/static/media/background1.ab1865a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e8b9d3.js",
+    "static/js/2.a8fe8f8b.chunk.js",
+    "static/css/main.7d3cf03b.chunk.css",
+    "static/js/main.36674a24.chunk.js"
+  ]
+}
