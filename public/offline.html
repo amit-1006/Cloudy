@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Weather App PWA"
+    />
+    <title>Cloudy</title>
+
+    <style>
+      *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+      }
+      body{
+         background-color:#A4243B;
+      }
+      .element{
+        width:80vw;
+        height:40vh;
+        background-color:#F5E4C3 ;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top:15%;
+        margin-left: 10%;
+        padding:10px;
+        transform: translate(0,50%);
+        border-radius: 15px;
+        box-shadow: 10px 10px 25px -8px black;
+      }
+      @media only screen and (min-width:1000px){
+        .element{
+          transform:translate(0,5%);
+        }
+      }
+      
+     </style>
+
+
+  </head>
+ 
+  <body>
+      <div class="element">
+        <h1>Please go online to see current weather</h1>
+      </div>
+   
+  </body>
+</html>
