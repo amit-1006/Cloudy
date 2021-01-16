@@ -1,6 +1,6 @@
 {
     "short_name":"Cloudy",
-    "name":"Weather App PWA",
+    "name":"Cloudy",
     "icons":[
         {
             "src":"./images/logo2.png",
